@@ -73,4 +73,237 @@
 }
 .manual{
 	text-align: center;
+	margin: 70px 0px;
+}
+
+.img-box .image-box{
+	width: 300px;
+	height: 340px;
+	text-align: center;
+	border:1px solid #eee;
+	display: inline-block;
+	margin: 10px 50px;
+
+}
+.img-box .image-box img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.team{
+	background-color: #a7adb7;
+
+}
+.upper-por{
+	text-align: center;
+	padding-top: 10px;
+}
+.team .image-box{
+}
+.team .image-box img{
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+.head{
+	text-align: center;
+}
+.pricing{
+	
+	display: inline-block;
+	text-align: center;
+	margin: 20px;
+}
+.pricing  p{
+margin-bottom: 10px;
+
+}
+.pricing  .list{
+	border:1px solid #eee;
+	width: 350px;
+	height: 400px;
+	display: inline-block;
+}
+.pricing .list .top-level{
+	padding: 10px 0px;
+	border-bottom:1px solid #eee;
+}
+.pricing .list .lower ul{
+	list-style-type: none;
+}
+.pricing .list .lower a{
+	list-style-type: none;
+	color: #a7adb7 ;
+	text-decoration: none;
+	line-height: 30px;
+	
+}
+.pricing .list .lower{
+	margin-bottom: 10px;
+}
+.seprater{
+	border:1px solid #eee;
+}
+.btn button{
+	margin-top: 20px;
+	background-color: #0072ff;
+	border-radius: 5px;
+	padding: 15px;
+	color: white;
+}
+.testimonials{
+	background-color: #555e69;
+	height: 420px;
+	display: inline-block;
+	position: relative;
+}
+.testimonials img{
+	border-radius: 50%;
+	margin-top: 67px;
+	margin-left: 40px;
+	display: inline-block;
+	position: absolute;
+}
+.testimonials .para p{
+	color: #a7adb7;
+	position: relative;
+	padding-top: 120px;
+	padding-left: 430px;
+	padding-right: 60px;
+
+}
+.testimonials .para .fa{
+	color: #a7adb7;
+	position: relative;
+	font-size: 30px;
+
+
+}
+.social-media-icons{
+	margin: 100px 0px;
+}
+.social-media-icons h2{
+	text-align: center;
+	margin-top: 50px;
+}
+.social-media-icons ul{
+	list-style-type: none;
+	text-align: center;
+}
+.social-media-icons li{
+	display: inline-block;
+
+} 
+
+
+.social-media-icons .icon{
+	width: 80px;
+	height: 30px;
+	text-align: center;
+}
+.social-media-icons .icon .fa{
+	color: white;
+	line-height: 30px;
+}
+
+.bg-fb{
+	background-color:#3B5998
+}
+.bg-twitter{
+	background-color: #0084b4;
+}
+.bg-pinterest{
+	background-color: #C92228;
+}
+.bg-google{
+	background-color: #d34836;
+}
+.bg-linkedin{
+	background-color: #0077B5;
+}
+.social-media-icons  p{
+	text-align: center;
+}
+.start{
+	background-color: blue;
+	height: 280px;
+	width: 100%;
+}
+.start p{
+	color: white;
+	font-size: 25px;
+	padding-top: 120px;
+	display: inline-block;
+}
+.start button{
+	background-color: white;
+	color: blue;
+	margin-top: 155px;
+	float: right;
+	display: inline-block;
+	
+	line-height: 30px;
+	margin-right: 5px;
+
+}
+.footer{
+	/*margin: 50px 80px;*/
+	background-color: #2e2f31;
+	width: 100%;
+	padding: 10px 0px;
+
+}
+.first-part{
+	display: inline-block;
+	padding: 0px 20px;
+	margin: 0px 30px;
+	color:#96999e;
+
+}
+.links{
+	display: inline-block;
+	padding: 0px 20px;
+	margin: 0px 30px;
+}
+
+.links ul{
+	list-style-type: none;
+	padding: 0px;
+	
+}
+
+.links a{
+	color:#96999e;
+	text-decoration: none;
+}
+.form{
+	display: inline-block;
+	padding: 0px 20px;
+	margin: 0px 30px;
+}
+.form h3{
+	margin-top: 5px;
+}
+.form textarea{
+	padding-right: 13px;
+
+}
+.form button{
+	background-color: blue;
+	color: white;
+	line-height: 30px;
+	padding: 0px 25px;
+	
+
+}
+h3{
+	color: white;
+}
+.copyright{
+	background-color: #191a1b;
+	height:30px;
+	width: 100%;
+	color: white;
+	text-align: center;
+	padding: 10px 0px;
+	line-height: 3px;
 }
